@@ -23,7 +23,7 @@ or
 then
 ```python3 webclient.py localhost 56006 HelloWorld.html```
 or open
-[http://localhost:56006/HelloWorld.html]()
+[http://localhost:56006/HelloWorld.html](http://localhost:56006/HelloWorld.html)
 
 Testing multithreading:
 ```python3 threadedserver.py --slow```
